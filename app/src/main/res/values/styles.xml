@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="FlowActionbarTheme" parent="@style/Theme.AppCompat.NoActionBar">
+        <item name="android:background">@android:color/transparent</item>
+
+        <!-- Support library compatibility -->
+        <item name="background">@android:color/transparent</item>
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+
+</resources>
